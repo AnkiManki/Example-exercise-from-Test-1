@@ -1,0 +1,13 @@
+td, th {
+    width: 100px;
+    height: 25px;
+    border: 1px solid black;
+}
+
+.mail {
+    width: 260px;
+}
+
+.highlight {
+    background: lightcoral;
+}
